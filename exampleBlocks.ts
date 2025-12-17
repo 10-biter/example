@@ -1,5 +1,6 @@
 
 
+//% color=#1f8042 icon="\uf135"
 namespace EXAMPLE {
 
 
